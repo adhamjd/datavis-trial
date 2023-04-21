@@ -1,0 +1,11 @@
+.tooltip {
+    font-size: 12px;
+    font-weight: bold;
+    fill: white;
+  }
+  .tooltip {
+    display: block;
+    visibility: visible;
+    opacity: 1;
+  }
+  
