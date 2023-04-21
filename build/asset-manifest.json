@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/datavisapp/static/css/main.7fb078cf.css",
+    "main.js": "/datavisapp/static/js/main.359f59b0.js",
+    "index.html": "/datavisapp/index.html",
+    "main.7fb078cf.css.map": "/datavisapp/static/css/main.7fb078cf.css.map",
+    "main.359f59b0.js.map": "/datavisapp/static/js/main.359f59b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb078cf.css",
+    "static/js/main.359f59b0.js"
+  ]
+}
